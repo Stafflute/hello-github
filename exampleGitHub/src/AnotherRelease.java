@@ -2,7 +2,7 @@
 public class AnotherRelease {
 
 	public AnotherRelease() {
-		// Commit THESE ver2
+		// Commit THESE ver3
 	}
 
 }
